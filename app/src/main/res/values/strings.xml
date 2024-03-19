@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="pokedex_paldea_001">Its fluffy fur is similar in composition to plants.This Pokémon frequently washes its face to keep it from drying out.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/_infoicon"
+        android:title="Info" />
+    <item
+        android:id="@+id/moves"
+        android:icon="@drawable/_movedexicon"
+        android:title="Moves" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/_moreicon"
+        android:title="More" />
+</menu>
